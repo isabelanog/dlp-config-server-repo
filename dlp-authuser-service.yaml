@@ -36,6 +36,19 @@ dlp:
   broker:
     exchange:
       userEvent: dlp.user.event
+
+authuser:
+  refreshscope:
+    name: Isabela Nogueira
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include:
+          - refresh
+          - health
+
 resilience4j:
   circuitbreaker:
     instances:
