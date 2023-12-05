@@ -38,7 +38,7 @@ dlp:
     queue:
       userEventQueue:
         name: dlp.user.event.ms.course
-        key:
+    key:
       notificationCommandKey: ms.notification
 management:
   endpoints:
