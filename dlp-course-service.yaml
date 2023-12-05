@@ -34,10 +34,12 @@ dlp:
   broker:
     exchange:
       userEventExchange: dlp.user.event
+      notificationCommandExchange: dlp.notificationcommand
     queue:
       userEventQueue:
         name: dlp.user.event.ms.course
-        
+        key:
+      notificationCommandKey: ms.notification
 management:
   endpoints:
     web:
