@@ -3,7 +3,7 @@ dlp:
     username: serviceregistry
     password: 'dlp123sr'
   auth:
-    jwtSecrect: W-kv2avke9!Wi?tn5VB8XsvETfJNsq?7KejXTtyYLVtz4sSFiCev88Ml74TvbnQ2hFqvD-fITR/WEYxp5!t2ZrnxCLao0iaYsVad5EaxK2mmm8Vioh52soIVo!909iv7MwJtrxH6TUC=/S?!s=3hsDZ5JJrDWUP69a-Qaf2YMsL!YGMnw9qzjgTB6U9doWi=6D6t3oFMRGfEtZT2nTArN-4WNzQOvYQHH3-2gZ=N08XW-UxZ=CXH4S/Vh1PiVyI1X2oubke9bORZydNRpNwywfKA048=DHv8tK/mjKh/uIT1lohg6kW9NN9bLyvdp?ZEEU43kzEzMoFiZ=GpdyEVDF-xs1-LMUv=FHfYm980yTBRGssd0BsNvu!4dYvdkQwjJylGDMAA-JFcdPXP3U34dslZBEqFas1apZjVczJzvlNVVpzTRn6NiQjZBQXvBXZpFiRYhHo!qo6ISx1Fin5jETn12XYnI/5PUXDDdhR7kwwU1FqutuyzNf2yXn1L7=7W
+    jwtSecret: W-kv2avke9!Wi?tn5VB8XsvETfJNsq?7KejXTtyYLVtz4sSFiCev88Ml74TvbnQ2hFqvD-fITR/WEYxp5!t2ZrnxCLao0iaYsVad5EaxK2mmm8Vioh52soIVo!909iv7MwJtrxH6TUC=/S?!s=3hsDZ5JJrDWUP69a-Qaf2YMsL!YGMnw9qzjgTB6U9doWi=6D6t3oFMRGfEtZT2nTArN-4WNzQOvYQHH3-2gZ=N08XW-UxZ=CXH4S/Vh1PiVyI1X2oubke9bORZydNRpNwywfKA048=DHv8tK/mjKh/uIT1lohg6kW9NN9bLyvdp?ZEEU43kzEzMoFiZ=GpdyEVDF-xs1-LMUv=FHfYm980yTBRGssd0BsNvu!4dYvdkQwjJylGDMAA-JFcdPXP3U34dslZBEqFas1apZjVczJzvlNVVpzTRn6NiQjZBQXvBXZpFiRYhHo!qo6ISx1Fin5jETn12XYnI/5PUXDDdhR7kwwU1FqutuyzNf2yXn1L7=7W
     jwtExpirationMs: 14400000
 eureka:
   client:
