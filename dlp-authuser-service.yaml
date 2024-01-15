@@ -6,7 +6,7 @@ spring:
   application:
     name: dlp-authuser-service
   datasource:
-    url: jdbc:mysql://auth-user-database:3306/dlp-authuser-async
+    url: jdbc:mysql://auth-user-database:3306/auth-user-async
     username: root
     password: root
   jpa:
