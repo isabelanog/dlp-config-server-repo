@@ -7,7 +7,7 @@ spring:
   application:
     name: dlp-course-service
   datasource:
-    url: jdbc:mysql://dlp-database:3306/dlp-course-async
+    url: jdbc:mysql://dlp-database:3306/course
     username: root
     password: root
   jpa:

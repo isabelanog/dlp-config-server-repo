@@ -14,7 +14,7 @@ spring:
         service-id: dlp-config-server
 
   datasource:
-    url: jdbc:mysql://dlp-database:3306/dlp-notification-async
+    url: jdbc:mysql://dlp-database:3306/notification
     username: root
     password: root
 
